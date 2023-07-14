@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rushika-P
+- 👋 Hi, I’m @Rushika
 - 👀 I’m interested in Web Development and Cloud.
 - 🌱 I’m currently learning Advanced Web Development.
 - 📫 How to reach me via LinkedIn https://www.linkedin.com/in/rushika-peddishetti/
